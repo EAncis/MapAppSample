@@ -1,3 +1,3 @@
 # MapAppSample
 
-Semaple App example to try convertiont to HMS
+Sample App example to try convertiont to HMS
